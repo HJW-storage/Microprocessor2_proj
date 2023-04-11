@@ -16,8 +16,7 @@
 <!-- ![RC_CAR body](https://user-images.githubusercontent.com/113449410/231169656-a39c019c-36e5-48e5-b870-96224d49c9e3.jpg) -->
 
 <!-- ### 이미지 사이즈 조절 -->
-## 개발 이미지 - RC Car
-<img src="https://user-images.githubusercontent.com/113449410/231169656-a39c019c-36e5-48e5-b870-96224d49c9e3.jpg"  width="700" height="1000">
+
 
 
 ## 프로젝트 소개
@@ -33,10 +32,10 @@
     
 ## HW 구성도 
 ### Car body
-<img src="https://user-images.githubusercontent.com/113449410/231181395-a209ace5-1c47-425d-8cff-d4a0e292b178.png"  width="387" height="400">
-<!-- <img width="387" alt="car" src="https://user-images.githubusercontent.com/113449410/231181395-a209ace5-1c47-425d-8cff-d4a0e292b178.png"> -->
+<img src="https://user-images.githubusercontent.com/113449410/231181395-a209ace5-1c47-425d-8cff-d4a0e292b178.png"  width="500" height="300">
 
 ### Controller
-<img src="https://user-images.githubusercontent.com/113449410/231181509-5d642896-f78a-47aa-9b83-5dc152e6be20.png"  width="260" height="300">
-<!-- <img width="260" alt="controller" src="https://user-images.githubusercontent.com/113449410/231181509-5d642896-f78a-47aa-9b83-5dc152e6be20.png"> -->
+<img src="https://user-images.githubusercontent.com/113449410/231181509-5d642896-f78a-47aa-9b83-5dc152e6be20.png"  width="500" height="300">
 
+## 개발 이미지 - RC Car
+<img src="https://user-images.githubusercontent.com/113449410/231169656-a39c019c-36e5-48e5-b870-96224d49c9e3.jpg"  width="700" height="1000">
