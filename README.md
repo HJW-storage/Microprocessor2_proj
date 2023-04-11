@@ -37,4 +37,4 @@
 <img src="https://user-images.githubusercontent.com/113449410/231181509-5d642896-f78a-47aa-9b83-5dc152e6be20.png"  width="500" height="300">
 
 ## 개발 이미지 - RC Car
-<img src="https://user-images.githubusercontent.com/113449410/231169656-a39c019c-36e5-48e5-b870-96224d49c9e3.jpg"  width="700" height="1000">
+<img src="https://user-images.githubusercontent.com/113449410/231184237-7381bc5b-d67c-490a-82f4-ad78534c6a38.jpg"  width="500" height="300">
