@@ -1,5 +1,4 @@
 # Microprocessor2 - Term Project
----
 
 <!-- ![RC_CAR body](https://user-images.githubusercontent.com/113449410/231169656-a39c019c-36e5-48e5-b870-96224d49c9e3.jpg) -->
 
@@ -7,6 +6,20 @@
 ## 개발 이미지 - RC Car
 <img src="https://user-images.githubusercontent.com/113449410/231169656-a39c019c-36e5-48e5-b870-96224d49c9e3.jpg"  width="700" height="1000">
 
+## collaborator
+<table>
+  <tr>
+  <!--
+  <td align="center"><b>Team Leader</b></sub></a><br /></td>
+  <td align="center"><b>Autonomous Driving</b></sub></a><br /></td>
+  <td align="center"><b>S/W</b></sub></a><br /></td>
+  <td align="center"><b>S/W</b></sub></a><br /></td>
+  -->
+  </tr>
+    <td align="center"><a href="https://github.com/HJW-storage"><img src="https://user-images.githubusercontent.com/103934004/229440749-5e448f84-ee88-48d5-8d2e-22881c1d4baf.jpeg" width="100px;" alt=""/><br /><sub><b>Hong Ji Whan</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/yomamdde"><img src="https://user-images.githubusercontent.com/103934004/229743913-2a75291f-5f8d-44b0-bafc-0e6c6fc0bda8.jpg" width="100px;" alt=""/><br /><sub><b>Kin han su</b></sub></a><br /></td>
+  </tr>
+</table>
 
 # 2. 번호 없는 리스트 작성
 * 리스트1
