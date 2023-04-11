@@ -1,11 +1,4 @@
 # Microprocessor2 - Term Project
-
-<!-- ![RC_CAR body](https://user-images.githubusercontent.com/113449410/231169656-a39c019c-36e5-48e5-b870-96224d49c9e3.jpg) -->
-
-<!-- ### 이미지 사이즈 조절 -->
-## 개발 이미지 - RC Car
-<img src="https://user-images.githubusercontent.com/113449410/231169656-a39c019c-36e5-48e5-b870-96224d49c9e3.jpg"  width="700" height="1000">
-
 ## collaborator
 <table>
   <tr>
@@ -20,6 +13,16 @@
     <td align="center"><img src="https://user-images.githubusercontent.com/113449410/231176805-0df7a553-98de-4d5c-a073-c084e019d3ac.jpg" width="100px;" alt=""/><br /><sub><b>Kin han su</b></sub><br /></td>
   </tr>
 </table>
+<!-- ![RC_CAR body](https://user-images.githubusercontent.com/113449410/231169656-a39c019c-36e5-48e5-b870-96224d49c9e3.jpg) -->
+
+<!-- ### 이미지 사이즈 조절 -->
+## 개발 이미지 - RC Car
+<img src="https://user-images.githubusercontent.com/113449410/231169656-a39c019c-36e5-48e5-b870-96224d49c9e3.jpg"  width="700" height="1000">
+
+
+## 프로젝트 소개
+#### 과제명 - 초보 운전자 주행 및 주차 보조 모델 RC카 제작
+##### 주행보조 및 주차 보조를 통한 운전자의 편의성 증대와 차량 긁힘 및 손상 방지를 위한 모델 RC카 설계
 
 # 2. 번호 없는 리스트 작성
 * 리스트1
