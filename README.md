@@ -17,7 +17,7 @@
   -->
   </tr>
     <td align="center"><a href="https://github.com/HJW-storage"><img src="https://user-images.githubusercontent.com/103934004/229440749-5e448f84-ee88-48d5-8d2e-22881c1d4baf.jpeg" width="100px;" alt=""/><br /><sub><b>Hong Ji Whan</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/yomamdde"><img src="https://user-images.githubusercontent.com/103934004/229743913-2a75291f-5f8d-44b0-bafc-0e6c6fc0bda8.jpg" width="100px;" alt=""/><br /><sub><b>Kin han su</b></sub></a><br /></td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/113449410/231176805-0df7a553-98de-4d5c-a073-c084e019d3ac.jpg" width="100px;" alt=""/><br /><sub><b>Kin han su</b></sub><br /></td>
   </tr>
 </table>
 
