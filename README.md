@@ -23,10 +23,9 @@
 #### 과제명 - 초보 운전자 주행 및 주차 보조 모델 RC카 제작
 ##### 주행보조 및 주차 보조를 통한 운전자의 편의성 증대와 차량 긁힘 및 손상 방지를 위한 모델 RC카 설계
 
-## 시작 가이드  
-## Requirements  
-
-## For building and running the project you need:
+## 시작 가이드
+### Requirements  
+### For building and running the project you need:
 * Microchip studio sw program 
 * Atmega128 
     
