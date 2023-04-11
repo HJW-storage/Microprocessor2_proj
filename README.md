@@ -5,7 +5,7 @@
 
 <!-- ### 이미지 사이즈 조절 -->
 ## 개발 이미지 - RC Car
-<img src="https://user-images.githubusercontent.com/113449410/231169656-a39c019c-36e5-48e5-b870-96224d49c9e3.jpg"  width="700" height="370">
+<img src="https://user-images.githubusercontent.com/113449410/231169656-a39c019c-36e5-48e5-b870-96224d49c9e3.jpg"  width="700" height="700">
 
 
 # 2. 번호 없는 리스트 작성
