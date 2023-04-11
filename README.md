@@ -28,7 +28,15 @@
 ### For building and running the project you need:
 * Microchip studio sw program 
 * Atmega128 
-    
+
+## 동작 영상
+### 전체 시나리오에 따른 동작 영상
+* 주행 테스트 영상 https://www.youtube.com/watch?v=j78lOuiBxhw
+* 센서 테스트 영상 https://www.youtube.com/watch?v=IxSM7H-Afjw
+* 전방 장애물 인식, 전진 불가능 https://www.youtube.com/watch?v=5wfeqD1_rDc
+* 후방 장애물 인식. 후진 불가능 https://www.youtube.com/watch?v=bDmryylZ1Io
+* 좌측 장애물이 있어 좌회전만 불가능 https://www.youtube.com/watch?v=hXixcmgLJZ4
+
 ## HW 구성도 
 ### Car body
 <img src="https://user-images.githubusercontent.com/113449410/231181395-a209ace5-1c47-425d-8cff-d4a0e292b178.png"  width="500" height="300">
