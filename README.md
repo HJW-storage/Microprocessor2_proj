@@ -47,11 +47,11 @@ MARKDOWN 정리, 실습 for README.md
 
 [blog]: https://lsh424.tistory.com/
 
-# 9. 이미지 추가하기
-![RC_CAR body](https://user-images.githubusercontent.com/113449410/231169656-a39c019c-36e5-48e5-b870-96224d49c9e3.jpg)
+# 9. 이미지 
+<!-- ![RC_CAR body](https://user-images.githubusercontent.com/113449410/231169656-a39c019c-36e5-48e5-b870-96224d49c9e3.jpg) -->
 
 
-### 이미지 사이즈 조절
+<!-- ### 이미지 사이즈 조절 -->
 <img src="https://user-images.githubusercontent.com/113449410/231169656-a39c019c-36e5-48e5-b870-96224d49c9e3.jpg"  width="700" height="700">
 
 <!-- ### 이미지 파일로 추가하기
