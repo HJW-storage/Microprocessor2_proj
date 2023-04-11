@@ -1,5 +1,4 @@
-# Microprocessor2 - Term Project  
-## collaborator
+# Microprocessor2 - Term Project  ## collaborator
 <table>
   <tr>
   <!--
